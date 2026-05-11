@@ -1,0 +1,29 @@
+[
+  {
+    "question": "The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+    "categoria": null,
+    "correct_answer": "True",
+    "difficulty": "hard",
+    "incorrect_answers": null
+  },
+  {
+    "question": "TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",
+    "categoria": null,
+    "correct_answer": "False",
+    "difficulty": "hard",
+    "incorrect_answers": null
+  },
+  {
+    "question": "The ghosts in &quot;Pac-Man&quot; and &quot;Ms. Pac-Man&quot; have completely different behavior.",
+    "categoria": null,
+    "correct_answer": "True",
+    "difficulty": "easy",
+    "incorrect_answers": null
+  },
+  {
+    "question": "Ancient Greek and Roman sculptors often colored their statues.",
+    "categoria": "Art",
+    "correct_answer": "True",
+    "difficulty": "hard"
+  }
+]
